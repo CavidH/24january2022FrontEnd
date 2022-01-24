@@ -1,0 +1,14 @@
+ .Menuul li {
+     margin-left: 50px;
+ }
+ 
+ .Menuul li a {
+     font-size: 16px;
+     text-decoration: none;
+     color: #fff;
+     font-weight: 400;
+ }
+ 
+ .Menuul li a:hover {
+     color: #ffc800;
+ }
