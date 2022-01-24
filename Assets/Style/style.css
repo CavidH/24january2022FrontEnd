@@ -43,3 +43,15 @@
  .i {
      font-style: italic;
  }
+ 
+ .btn-tell {
+     color: #fff;
+     font-size: 20px;
+     background-color: #ffc800;
+     border-color: #ffc800;
+     font-weight: 400;
+     text-align: center;
+     padding: 20px 40px;
+     margin-top: 15px;
+     margin-left: 37%;
+ }
