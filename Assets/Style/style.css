@@ -55,3 +55,56 @@
      margin-top: 15px;
      margin-left: 37%;
  }
+ 
+ .icon {
+     width: 124px;
+     height: 124px;
+     background-color: #FFC800;
+     border-radius: 50%;
+     text-align: center;
+     margin-left: 90px;
+     /* text-align: center; */
+ }
+ 
+ .icon i {
+     color: #fff;
+     font-size: 68px;
+     margin-top: 20%;
+ }
+ 
+ .cardtitle {
+     color: #212529;
+     font-size: 54px;
+     text-align: center;
+ }
+ 
+ .cardhead {
+     color: #6c757d;
+     font-size: 30px;
+     text-align: center;
+ }
+ 
+ .cardserv {
+     border: 1px solid green
+ }
+ 
+ .servtitle {
+     text-align: center;
+     color: #212529;
+     font-size: 54px;
+     font-weight: 600;
+ }
+ 
+ #Sevices {
+     margin-top: 100px;
+ }
+ 
+ .servhead {
+     text-align: center;
+     color: #6c757d;
+     font-size: 16px;
+ }
+ 
+ .servrow {
+     margin-top: 100px;
+ }
